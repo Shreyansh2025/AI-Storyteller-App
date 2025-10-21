@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+diffusers
+gtts
+accelerate
+safetensors
